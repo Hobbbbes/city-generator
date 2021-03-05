@@ -10,3 +10,5 @@ c++ city generator with random population
 c++ class/object && function practice project
 
 can't really do much, but it's fun to just generate random cities
+
+city_merge() is also broken
